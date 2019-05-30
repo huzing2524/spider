@@ -200,8 +200,8 @@ class CrackBilibili(object):
 
 
 def main():
-    username = '826956010@qq.com'
-    password = 'hu200901959'
+    username = '******'
+    password = '******'
     crack_bilibili = CrackBilibili(username, password)
     crack_bilibili.run_spider()
 
